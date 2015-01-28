@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I'm a contract web & software developer in London, UK. I have a full-stack experience -- from PHP/Java/Node/Ruby backends, to HTML5/Angular/CanJS frontends, to Puppet/AWS/Linux dev-ops, to Android apps and browser extensions.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I enjoy using Angular JS, Node, PHP, Symfony 2 and Play framework, and writing well-tested code.
